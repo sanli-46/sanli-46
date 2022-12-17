@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sanli-46
-- 👀 I’m interested in backand    
-- 🌱 I’m currently learning .net
-
-
+# 👋 Hi, I’m Alperen Şanlı .
+- I'm currently interested in backand.
+- Ask me about java.web,postgreSQL,mySQL
+- I am learning .net now.
 
 ![image](https://user-images.githubusercontent.com/81872331/208265681-bcb4d29a-f859-4a9e-b6bd-0e0e99dcd37a.png)
 
@@ -11,7 +10,7 @@
 - 📫 How to reach me alperensanli.46@gmail.com
 
 # Link :
--https://discord.com/channels/@me
+- https://discord.com/channels/@me
 - https://www.instagram.com/sanli__alp/
 - https://www.linkedin.com/in/alperen-%C5%9Fanl%C4%B1-a21142216/
 
