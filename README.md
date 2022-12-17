@@ -5,11 +5,15 @@
 
 
 ![image](https://user-images.githubusercontent.com/81872331/208265681-bcb4d29a-f859-4a9e-b6bd-0e0e99dcd37a.png)
-#Contact :
+
+
+# Contact :
 - 📫 How to reach me alperensanli.46@gmail.com
 
-#Link :
-- ![instagram](https://user-images.githubusercontent.com/81872331/208266014-d3f6d9c6-fb98-441b-9e7d-6e447392a400.svg) https://www.instagram.com/sanli__alp/
+# Link :
+-https://discord.com/channels/@me
+- https://www.instagram.com/sanli__alp/
+- https://www.linkedin.com/in/alperen-%C5%9Fanl%C4%B1-a21142216/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanli-46&layout=compact)](https://github.com/sanli-46/github-readme-stats)
