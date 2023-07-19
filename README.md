@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m Alperen Şanlı .<br>I'm currently interested in backand.<br>Ask me about java.web,postgreSQL,mySQL<br>I am learning .net now.
+<br>👋 Hi, I’m Alperen Şanlı .<br>I'm currently interested in backend.<br>Ask me about java.web,postgreSQL,mySQL<br>I am learning web testing and mobil testing now.
 
 
 ## 🌐 Socials:
