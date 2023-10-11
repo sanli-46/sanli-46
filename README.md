@@ -1,4 +1,3 @@
-# 💫 About Me:
 
 # 💫 About Me:
 Hi, I'm alperen <br>I'm currently working on the test <br>I am currently learning testing-cucumber<br>Ask me questions about the test and the back end<br>
